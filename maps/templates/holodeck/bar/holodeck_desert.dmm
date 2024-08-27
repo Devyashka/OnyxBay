@@ -1,0 +1,40 @@
+"a" = (/obj/structure/table/woodentable,/turf/simulated/floor/natural/sand,/area/template_noop)
+"b" = (/obj/structure/bed/chair/beige{dir = 4},/turf/simulated/floor/natural/sand,/area/template_noop)
+"d" = (/obj/machinery/door/window{name = "Bar"; req_one_access = list(25); base_state = "right"},/turf/simulated/floor/natural/sand,/area/template_noop)
+"e" = (/turf/simulated/wall{holodeck_compatible = 1},/area/template_noop)
+"f" = (/obj/item/plant_pot/random,/obj/structure/table/woodentable,/turf/simulated/floor/natural/sand,/area/template_noop)
+"h" = (/obj/structure/table/woodentable,/turf/simulated/floor/sand_floor,/area/template_noop)
+"i" = (/obj/structure/flora/tree/dead/deadtree_5,/turf/simulated/floor/natural/sand,/area/template_noop)
+"j" = (/obj/structure/bed/chair/beige{dir = 8},/turf/simulated/floor/natural/sand,/area/template_noop)
+"o" = (/obj/structure/bed/chair/beige{dir = 4},/turf/simulated/floor/sand_floor,/area/template_noop)
+"p" = (/obj/structure/flora/tree/dead/deadtree_3,/turf/simulated/floor/natural/sand,/area/template_noop)
+"s" = (/turf/simulated/floor/natural/sand,/area/template_noop)
+"v" = (/obj/item/clothing/glasses/sunglasses,/obj/item/device/synthesized_instrument/guitar,/obj/structure/table/woodentable,/turf/simulated/floor/natural/sand,/area/template_noop)
+"w" = (/obj/structure/flora/tree/dead/deadtree_1,/turf/simulated/floor/natural/sand,/area/template_noop)
+"x" = (/obj/structure/flora/tree/dead/deadtree_4,/turf/simulated/floor/sand_floor,/area/template_noop)
+"A" = (/obj/structure/flora/ausbushes/fullgrass,/turf/simulated/floor/natural/sand,/area/template_noop)
+"B" = (/obj/item/reagent_containers/food/grown/coffee,/obj/item/reagent_containers/food/grown/coffee,/obj/structure/table/woodentable,/turf/simulated/floor/natural/sand,/area/template_noop)
+"G" = (/obj/structure/flora/tree/green/tree9,/turf/simulated/floor/natural/sand,/area/template_noop)
+"H" = (/obj/structure/bed/chair/beige,/turf/simulated/floor/natural/sand,/area/template_noop)
+"M" = (/obj/structure/flora/ausbushes/sparsegrass,/turf/simulated/floor/natural/sand,/area/template_noop)
+"O" = (/obj/structure/table/woodentable,/obj/item/clothing/suit/poncho/colored,/obj/item/clothing/head/sombrero,/turf/simulated/floor/natural/sand,/area/template_noop)
+"P" = (/obj/structure/flora/tree/dead/deadtree_2,/turf/simulated/floor/natural/sand,/area/template_noop)
+"R" = (/obj/item/stool/padded,/turf/simulated/floor/natural/sand,/area/template_noop)
+"S" = (/obj/item/material/ashtray/bronze,/obj/structure/table/woodentable,/turf/simulated/floor/sand_floor,/area/template_noop)
+"V" = (/obj/structure/bed/chair/beige{dir = 8},/turf/simulated/floor/sand_floor,/area/template_noop)
+"W" = (/turf/simulated/floor/sand_floor,/area/template_noop)
+
+(1,1,1) = {"
+ssessGOaesWae
+ssesMsssdsWBe
+sRfWashWaRWae
+ssaWWWWsaRsse
+sspahhaawssMR
+issRRRRRssssR
+ssWWsssMsWssR
+bhVsssssohVsR
+oSjsMsssoSVWR
+ssssWssssssWs
+sjsWWMssPHsAH
+avsWxWWsbajba
+"}

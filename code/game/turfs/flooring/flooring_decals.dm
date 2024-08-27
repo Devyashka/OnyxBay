@@ -48,6 +48,10 @@ var/list/floor_decals = list()
 	atom_flags |= ATOM_FLAG_INITIALIZED
 	return INITIALIZE_HINT_QDEL
 
+/obj/effect/floor_decal/water
+	name = "water"
+	icon_state = "water"
+
 /obj/effect/floor_decal/carpet
 	name = "brown carpet"
 	icon = 'icons/turf/flooring/carpet.dmi'

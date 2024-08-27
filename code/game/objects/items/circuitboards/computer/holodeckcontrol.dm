@@ -11,6 +11,12 @@
 	var/emagged = FALSE
 	/// Whether console had safeties disabled.
 	var/safety_disabled = FALSE
+	/// Area type holodeck console should look for.
+	var/mapped_start_area_typepath = /area/holodeck
+
+/obj/item/circuitboard/holodeckcontrol/bar
+	name = T_BOARD("holodeck bar control console")
+	mapped_start_area_typepath = /area/holodeck/bar
 
 /obj/item/circuitboard/holodeckcontrol/construct(obj/machinery/computer/holodeck/holo_control)
 	. = ..()

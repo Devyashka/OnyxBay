@@ -9,6 +9,8 @@
 	/// List of SFX tags to be played as ambience music when template is loaded.
 	var/list/ambience_music
 
+	var/holodeck_area = /area/holodeck
+
 /datum/map_template/holodeck/update_blacklist(turf/source_turf, centered, list/turf_blacklist)
 	for(var/turf/affecting_turf as anything in get_affected_turfs(source_turf, centered))
 		if(affecting_turf.holodeck_compatible || (affecting_turf.atom_flags & ATOM_FLAG_HOLOGRAM))
@@ -45,7 +47,7 @@
 	ambience_music = list(SFX_AMBIENT_MUSIC_COURT)
 
 /datum/map_template/holodeck/desert
-	name = "space-mexican desert"
+	name = "space desert"
 	template_id = "holodeck_desert"
 	mappaths = list("maps/templates/holodeck/holodeck_desert.dmm")
 	ambience = list(SFX_AMBIENT_DESERT)
@@ -105,3 +107,43 @@
 	template_id = "holodeck_wildlife"
 	mappaths = list("maps/templates/holodeck/holodeck_wildlife.dmm")
 	restricted = TRUE
+
+/datum/map_template/holodeck/beach/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_beach.dmm")
+	template_id = "holodeck_beach_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/desert/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_desert.dmm")
+	template_id = "holodeck_desert_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/disco/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_disco.dmm")
+	template_id = "holodeck_disco_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/offline/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_offline.dmm")
+	template_id = "holodeck_offline_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/picnic/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_picnic.dmm")
+	template_id = "holodeck_picnic_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/snow/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_snow.dmm")
+	template_id = "holodeck_snow_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/space/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_space.dmm")
+	template_id = "holodeck_space_bar"
+	holodeck_area = /area/holodeck/bar
+
+/datum/map_template/holodeck/wildlife/bar
+	mappaths = list("maps/templates/holodeck/bar/holodeck_wildlife.dmm")
+	template_id = "holodeck_wildlife_bar"
+	holodeck_area = /area/holodeck/bar

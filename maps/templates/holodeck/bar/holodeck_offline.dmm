@@ -1,0 +1,20 @@
+"a" = (/turf/simulated/floor/reinforced,/area/template_noop)
+"l" = (/obj/effect/floor_decal/industrial/hatch/blue,/obj/structure/table,/turf/simulated/floor/reinforced,/area/template_noop)
+"r" = (/obj/item/reagent_containers/food/grown/coffee,/obj/item/reagent_containers/food/grown/coffee,/obj/effect/floor_decal/industrial/hatch/blue,/obj/structure/table,/turf/simulated/floor/reinforced,/area/template_noop)
+"u" = (/turf/simulated/wall{holodeck_compatible = 1},/area/template_noop)
+"F" = (/obj/effect/floor_decal/industrial/hatch/blue,/turf/simulated/floor/reinforced,/area/template_noop)
+
+(1,1,1) = {"
+aauaaFlluaalu
+aauaaaaaaaaru
+aalalalalaalu
+aalaaaaalaaau
+aaalllllaaaaa
+aaaaaaaaaaaaa
+aaaaaaaaaaaaa
+alaaaaaaalaaa
+alaaaaaaalaaa
+aaaaaaaaaaaaa
+aaaaaaaaaaaaa
+llaaaaaaalaal
+"}

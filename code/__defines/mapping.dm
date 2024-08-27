@@ -39,8 +39,19 @@
 
 #define MAP_BAR_RANDOM  "random"
 #define MAP_BAR_CLASSIC "classic"
+
+// Bars Frontir
 #define MAP_BAR_MODERN  "modern"
 #define MAP_BAR_SALOON  "saloon"
+
+// Bars Exodus
+#define MAP_BAR_MED		"med"
+#define MAP_BAR_HOLO	"holo"
+#define MAP_BAR_LEFT	"left"
+#define MAP_BAR_SIEGE	"siege"
+#define MAP_BAR_SKY		"sky"
+#define MAP_BAR_STEEL	"steel"
+#define MAP_BAR_TWOFL	"twofl"
 
 // Derelicts amount
 #define MAP_DERELICTS_AMOUNT  2

@@ -1,0 +1,38 @@
+"a" = (/obj/structure/table/steel_reinforced,/obj/item/clothing/head/richard,/obj/item/clothing/head/rabbitears,/obj/item/clothing/head/syndicatefake,/obj/item/clothing/head/wizard/violetwizard,/obj/item/clothing/head/samura_hat,/obj/item/clothing/head/bearpelt,/obj/item/clothing/head/antenna,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"c" = (/obj/machinery/floor_light/prebuilt,/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"f" = (/obj/item/stool/bar_new,/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"h" = (/obj/structure/table/steel,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"i" = (/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"n" = (/obj/item/stool/bar_new,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"q" = (/obj/machinery/door/window{name = "Bar"; req_one_access = list(25); base_state = "right"},/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"s" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"t" = (/obj/item/plant_pot/random,/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"u" = (/obj/structure/table/steel_reinforced,/obj/item/clothing/under/psyche,/obj/item/clothing/under/color/rainbow,/obj/item/clothing/glasses/magma_dual_glasses,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"E" = (/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"F" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"G" = (/obj/machinery/floor_light/prebuilt,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"J" = (/obj/structure/table/steel,/obj/item/clothing/head/agua_helmet,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"K" = (/obj/structure/bed/chair/black,/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"L" = (/obj/item/reagent_containers/food/grown/coffee,/obj/item/reagent_containers/food/grown/coffee,/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"O" = (/obj/structure/table/steel,/obj/item/clothing/glasses/magma_dark_glasses,/obj/item/clothing/glasses/magma_red_glasses,/obj/item/device/synthesized_instrument/guitar/multi,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"P" = (/obj/structure/window_frame/grille/glass,/turf/simulated/floor,/area/template_noop)
+"U" = (/obj/structure/bed/chair/black{dir = 4},/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"W" = (/obj/structure/bed/chair/black{dir = 8},/turf/simulated/floor/tiled/dark/rough,/area/template_noop)
+"X" = (/turf/simulated/wall{holodeck_compatible = 1},/area/template_noop)
+"Y" = (/obj/structure/bed/chair/black{dir = 4},/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+"Z" = (/obj/item/material/ashtray/bronze,/obj/structure/table/steel,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
+
+(1,1,1) = {"
+EEXEEussXEisX
+iEXEiiiEqEiLX
+intiFEFisnisX
+EfaEiiiEsnEEX
+iEPFssssPEEEn
+EiEffnnniEiEn
+iicGccccGEiin
+YhGGGGccGhWin
+YZGGGGcGGZWEn
+EiGGGcGGGEiEE
+EWGGGGGGGKiiK
+JOEEiiiEYhWUh
+"}

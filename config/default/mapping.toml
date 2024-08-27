@@ -6,9 +6,13 @@ derelicts_amount = 2
 ## Pick one from: "random", "singularity", "supermatter"
 preferable_engine = "singularity"
 
-## Which bar should be on map (not all the maps support this).
+## Which bar should be on map frontier (not all the maps support this).
 ## Pick one from: "random", "classic", "modern", "saloon"
-preferable_bar = "classic"
+preferable_bar_frontier = "random"
+
+## Which bar should be on map exodus (not all the maps support this).
+## Pick one from: "random", "classic", "steel", "twofl", "sky", "siege", "left", "holo", "med"
+preferable_bar_exodus = "random"
 
 ## Which biodome should be spawned on NSS Frontier
 ## Pick one from: "random", "forest", "winter", "beach", "concert"

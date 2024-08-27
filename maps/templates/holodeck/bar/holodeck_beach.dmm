@@ -1,0 +1,79 @@
+"ab" = (/obj/structure/flora/ausbushes/fernybush,/turf/simulated/floor/natural/jungle/sandgrasscorner1{dir = 4},/area/template_noop)
+"av" = (/turf/simulated/floor/natural/jungle/water/corner,/area/template_noop)
+"aQ" = (/turf/simulated/floor/natural/jungle,/area/template_noop)
+"bg" = (/obj/structure/flora/ausbushes/fernybush,/turf/simulated/floor/natural/jungle/sandgrassedge,/area/template_noop)
+"bL" = (/turf/simulated/floor/natural/jungle/water/edge,/area/template_noop)
+"cb" = (/obj/structure/flora/ausbushes/fernybush,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"cc" = (/turf/simulated/floor/natural/jungle/water/edge{dir = 4},/area/template_noop)
+"cM" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water/edge{dir = 5},/area/template_noop)
+"cP" = (/turf/simulated/floor/natural/jungle/water/edge{dir = 1},/area/template_noop)
+"fj" = (/turf/simulated/floor/natural/jungle/sandgrasscorner2{dir = 4},/area/template_noop)
+"fG" = (/obj/structure/window_frame/rglass,/turf/simulated/floor/natural/jungle/water/edge{dir = 8},/area/template_noop)
+"hY" = (/turf/simulated/floor/natural/jungle/water/edge{dir = 5},/area/template_noop)
+"iZ" = (/obj/structure/window_frame/rglass,/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"jD" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/sandgrassedge{dir = 8},/area/template_noop)
+"jU" = (/obj/structure/table/standard{name = "plastic table frame"},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"kZ" = (/obj/structure/table/standard,/obj/item/clothing/suit/pirate,/obj/item/clothing/head/pirate,/obj/item/clothing/glasses/eyepatch,/obj/item/clothing/under/redcoat,/obj/item/melee/energy/sword/pirate,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"lm" = (/obj/structure/table/standard,/obj/item/reagent_containers/vessel/glass/hurricane{pixel_y = 7},/obj/item/reagent_containers/food/watermelonslice,/obj/item/glass_extra/lime_slice{pixel_y = 8; pixel_x = -4},/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"lT" = (/obj/structure/bed/chair/lime{dir = 8},/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"mG" = (/obj/structure/flora/ausbushes/jungleflora/bushb,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"no" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water/corner{dir = 1},/area/template_noop)
+"pd" = (/turf/simulated/floor/natural/jungle/sandgrassedge{dir = 8},/area/template_noop)
+"qw" = (/obj/structure/flora/ausbushes/jungleflora/busha,/turf/simulated/floor/natural/jungle/sandgrasscorner1{dir = 4},/area/template_noop)
+"rf" = (/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"rV" = (/obj/structure/table/standard,/obj/item/material/ashtray/glass,/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"sV" = (/obj/effect/overlay/coconut,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"tn" = (/obj/structure/flora/ausbushes/jungleflora/grassa,/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"tr" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water/edge{dir = 1},/area/template_noop)
+"uC" = (/obj/structure/flora/ausbushes/jungleflora/busha,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"vh" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/sandgrassedge,/area/template_noop)
+"vy" = (/obj/effect/overlay/palmtree_l,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"wQ" = (/obj/structure/bed/chair/lime{dir = 4},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"yo" = (/obj/item/reagent_containers/food/grown/coffee,/obj/item/reagent_containers/food/grown/coffee,/obj/structure/table/standard,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"yG" = (/turf/simulated/floor/natural/jungle/water/corner{dir = 1},/area/template_noop)
+"Af" = (/obj/structure/table/standard,/obj/item/clothing/glasses/sunglasses,/obj/item/device/synthesized_instrument/guitar,/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"AW" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water/edge{dir = 10},/area/template_noop)
+"Bl" = (/obj/item/plant_pot/random,/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water/corner{dir = 1},/area/template_noop)
+"BC" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"CA" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"DN" = (/turf/simulated/floor/natural/jungle/water/edge{dir = 9},/area/template_noop)
+"Fe" = (/obj/structure/bed/chair/lime{dir = 8},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Hz" = (/turf/simulated/floor/natural/jungle/sandgrassedge,/area/template_noop)
+"IE" = (/turf/simulated/wall{holodeck_compatible = 1},/area/template_noop)
+"Jq" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"Lk" = (/obj/machinery/door/window{name = "Bar"; req_one_access = list(25); base_state = "right"},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"LH" = (/obj/structure/bed/chair/lime{dir = 4},/turf/simulated/floor/natural/jungle/sandgrassedge{dir = 8},/area/template_noop)
+"LL" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Mx" = (/obj/structure/bed/chair/lime{dir = 4},/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"NE" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"NS" = (/obj/structure/table/standard,/turf/simulated/floor/natural/jungle/water/edge{dir = 9},/area/template_noop)
+"Of" = (/obj/item/clothing/head/collectable/paper,/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"OH" = (/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"Pm" = (/turf/simulated/floor/natural/jungle/water/edge{dir = 10},/area/template_noop)
+"Qa" = (/obj/structure/table/standard,/obj/item/material/ashtray/glass,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Qx" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/sandgrasscorner1{dir = 1},/area/template_noop)
+"QF" = (/turf/simulated/floor/natural/jungle/water/edge{dir = 8},/area/template_noop)
+"QX" = (/turf/simulated/floor/natural/jungle/sandgrasscorner2{dir = 1},/area/template_noop)
+"Rw" = (/turf/simulated/floor/natural/jungle/water/corner{dir = 4},/area/template_noop)
+"So" = (/turf/simulated/floor/natural/jungle/water/corner{dir = 8},/area/template_noop)
+"Su" = (/obj/structure/table/standard,/obj/item/beach_ball,/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"Uq" = (/obj/effect/overlay/coconut,/turf/simulated/floor/natural/jungle/sand,/area/template_noop)
+"Vx" = (/obj/item/inflatable_duck,/turf/simulated/floor/natural/jungle/water/edge{dir = 6},/area/template_noop)
+"VV" = (/obj/item/bikehorn/rubberducky,/turf/simulated/floor/natural/jungle/water,/area/template_noop)
+"Xp" = (/turf/simulated/floor/natural/jungle/sandgrasscorner1{dir = 4},/area/template_noop)
+"YS" = (/obj/structure/bed/chair/lime,/turf/simulated/floor/natural/jungle,/area/template_noop)
+
+(1,1,1) = {"
+OHOHIEaQaQkZLLLLIEaQaQLLIE
+tnOHIEaQaQmGaQaQLkaQaQyoIE
+avbLBlfjvhHzvhbgvhQxaQLLIE
+ccrfAWbLbLbLbLbLnojDmGaQIE
+ccVViZSuNStrcMBCfGpduCaQNE
+SohYrfOfQFJqccDNRwpdaQaQNE
+OHSocPhYQFOHccQFQXabvymGNE
+MxCAlTSoRwavVxQFLHQaFeaQNE
+MxrVlTtnOHccDNRwLHLLFeaQNE
+bLbLbLyGOHccQFUqpdcbsVaQuC
+rfrfrfPmyGSoRwQXXpYSmGvyYS
+lmAfOfrfQFOHQXqwwQjUFewQjU
+"}

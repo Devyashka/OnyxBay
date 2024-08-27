@@ -1276,6 +1276,9 @@
 	icon_state = "cafeteria"
 	sound_env = LARGE_SOFTFLOOR
 
+/area/crew_quarters/mess/umess
+	name = "\improper Underground Mess Hall"
+
 /area/library
  	name = "\improper Library"
  	icon_state = "library"
@@ -2224,6 +2227,9 @@
 	requires_power = FALSE
 	dynamic_lighting = FALSE
 	sound_env = LARGE_ENCLOSED
+
+/area/holodeck/bar
+	name = "\improper Holodeck Bar"
 
 /area/prison/solitary
 	name = "Solitary Confinement"

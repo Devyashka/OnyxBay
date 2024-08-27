@@ -206,6 +206,26 @@
 	icon_state = "chair_couch-purple_corner"
 	base_icon = "chair_couch-purple_corner"
 
+/obj/structure/bed/couch/left/black
+	name = "black couch"
+	icon_state = "chair_couch-black_left"
+	base_icon = "chair_couch-black_left"
+
+/obj/structure/bed/couch/right/black
+	name = "black couch"
+	icon_state = "chair_couch-black_right"
+	base_icon = "chair_couch-black_right"
+
+/obj/structure/bed/couch/middle/black
+	name = "black couch"
+	icon_state = "chair_couch-black_mid"
+	base_icon = "chair_couch-black_mid"
+
+/obj/structure/bed/couch/corner/black
+	name = "black couch"
+	icon_state = "chair_couch-black_corner"
+	base_icon = "chair_couch-black_corner"
+
 /obj/structure/bed/couch/middle/sofa
 	name = "comfy sofa"
 	desc = "So lovely, uh."

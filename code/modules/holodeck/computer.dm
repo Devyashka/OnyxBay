@@ -14,8 +14,6 @@
 
 	active_power_usage = 8 KILO WATTS
 
-	/// Area type holodeck console should look for.
-	var/mapped_start_area_typepath = /area/holodeck
 	/// Reference to a linked area.
 	var/area/holodeck/linked_area
 	/// Reference to a bottom left turf.
@@ -52,6 +50,10 @@
 	/// Whether gravity is disabled inside a holodeck zone.
 	var/gravity_disabled = FALSE
 
+/obj/machinery/computer/holodeck/bar
+	circuit = /obj/item/circuitboard/holodeckcontrol/bar
+	offline_program = "holodeck_offline_bar"
+
 /obj/machinery/computer/holodeck/Initialize()
 	. = ..()
 
@@ -61,7 +63,8 @@
 	return INITIALIZE_HINT_LATELOAD
 
 /obj/machinery/computer/holodeck/LateInitialize()
-	linked_area = pick_area_by_type(mapped_start_area_typepath, list())
+	var/obj/item/circuitboard/holodeckcontrol/crc = circuit
+	linked_area = pick_area_by_type(crc.mapped_start_area_typepath, list())
 	if(isnull(linked_area))
 		log_debug("[src] has no matching holodeck area.")
 		qdel(src)
@@ -87,8 +90,13 @@
 	load_program(offline_program, TRUE)
 
 /obj/machinery/computer/holodeck/proc/generate_programs_list()
+	var/obj/item/circuitboard/holodeckcontrol/crc = circuit
+	var/area/holo_area = crc.mapped_start_area_typepath
 	for(var/typepath in subtypesof(/datum/map_template/holodeck))
 		var/datum/map_template/holodeck/program = typepath
+		if(holo_area != program.holodeck_area)
+			continue
+
 		var/list/program_data = list("id" = initial(program.template_id), "name" = initial(program.name))
 		if(initial(program.restricted))
 			LAZYADD(emag_programs_cache, list(program_data))

@@ -80,6 +80,8 @@ var/const/MAP_HAS_RANK = 2		//Rank system, also togglable
 	var/salary_modifier	= 1			//Multiplier to starting character money
 	var/station_departments = list()//Gets filled automatically depending on jobs allowed
 
+	var/list/template_maps = list()
+
 	//Factions prefs stuff
 	var/list/background_choices = list(
 		"Nanotrasen",

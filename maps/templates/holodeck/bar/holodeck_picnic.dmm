@@ -1,0 +1,71 @@
+"bU" = (/turf/simulated/wall{holodeck_compatible = 1},/area/template_noop)
+"cR" = (/obj/structure/table/woodentable,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"fL" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"fR" = (/obj/structure/bed/chair/comfy/brown{dir = 4},/turf/simulated/floor/natural/jungle/grasscorner2{dir = 1},/area/template_noop)
+"hm" = (/obj/structure/flora/ausbushes/jungleflora/bushb,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"hR" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle/grassedge{dir = 4},/area/template_noop)
+"kG" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/grassedge{dir = 4},/area/template_noop)
+"lP" = (/turf/simulated/floor/natural/jungle/grasscorner2{dir = 1},/area/template_noop)
+"nR" = (/turf/simulated/floor/natural/jungle/grassedge{dir = 1},/area/template_noop)
+"ob" = (/obj/structure/flora/ausbushes/sparsegrass,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"ox" = (/obj/item/plant_pot/random,/obj/structure/table/woodentable,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"qz" = (/obj/structure/flora/ausbushes/jungleflora/bushb,/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"uO" = (/obj/machinery/door/window{name = "Bar"; req_one_access = list(25); base_state = "right"},/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"vm" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/grasscorner2{dir = 4},/area/template_noop)
+"xy" = (/obj/structure/window_frame/glass,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"xH" = (/obj/structure/flora/ausbushes/jungleflora/bushc,/turf/simulated/floor/natural/jungle/grasscorner1{dir = 8},/area/template_noop)
+"yq" = (/turf/simulated/floor/natural/jungle/grasscorner1{dir = 1},/area/template_noop)
+"yJ" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle/grassedge{dir = 1},/area/template_noop)
+"yY" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle/grassedge{dir = 8},/area/template_noop)
+"ze" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/food/meatkabob,/obj/item/reagent_containers/food/meatkabob,/obj/item/reagent_containers/food/meatkabob,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"zZ" = (/obj/structure/flora/ausbushes/glowshroom,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"Bq" = (/turf/simulated/floor/natural/jungle/grasscorner2{dir = 4},/area/template_noop)
+"Bw" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"BN" = (/obj/structure/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"DR" = (/obj/structure/bed/chair/green{dir = 4},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Fc" = (/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Fi" = (/obj/structure/table/woodentable,/obj/item/clothing/under/fig_leaf,/obj/item/clothing/under/fig_leaf,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Fs" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle/grasscorner1{dir = 1},/area/template_noop)
+"If" = (/obj/structure/bed/chair/green,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"IA" = (/turf/simulated/floor/natural/jungle/grassedge{dir = 4},/area/template_noop)
+"JF" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Ks" = (/obj/structure/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor/natural/jungle/grasscorner1{dir = 8},/area/template_noop)
+"KW" = (/obj/structure/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor/natural/jungle/grassedge{dir = 4},/area/template_noop)
+"Ln" = (/turf/simulated/floor/natural/jungle/grasscorner2{dir = 8},/area/template_noop)
+"LO" = (/obj/structure/flora/ausbushes/fullgrass,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Nh" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/food/bacon{pixel_y = 1; pixel_x = -2},/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"Nt" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/vessel/mug/punitelli{pixel_y = 7},/obj/item/reagent_containers/vessel/mug/one{pixel_y = -2; pixel_x = 8},/obj/item/reagent_containers/vessel/mug/heart{pixel_x = -5; pixel_y = -1},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"PY" = (/turf/simulated/floor/natural/jungle/grasscorner1{dir = 4},/area/template_noop)
+"QP" = (/obj/structure/flora/ausbushes/jungleflora/busha,/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"QR" = (/obj/structure/bed/chair/comfy/brown{dir = 4},/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"Sj" = (/obj/structure/flora/ausbushes/jungleflora,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"So" = (/obj/structure/bed/chair/green{dir = 8},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Sx" = (/obj/structure/bed/chair/comfy/brown{dir = 4},/turf/simulated/floor/natural/jungle,/area/template_noop)
+"SL" = (/obj/structure/flora/tree/green/pink,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"TM" = (/turf/simulated/floor/natural/jungle/grassedge{dir = 8},/area/template_noop)
+"TX" = (/obj/item/reagent_containers/food/grown/coffee,/obj/item/reagent_containers/food/grown/coffee,/obj/structure/table/woodentable,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Ua" = (/obj/structure/table/woodentable,/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"Ul" = (/obj/item/material/ashtray/bronze,/obj/structure/table/woodentable,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"UM" = (/obj/structure/flora/ausbushes/jungleflora/bushb,/turf/simulated/floor/natural/jungle/grasscorner1{dir = 8},/area/template_noop)
+"Vy" = (/obj/item/stool/bar,/obj/structure/flora/ausbushes/jungleflora/bushb,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Wg" = (/obj/structure/flora/junglevines/heavy,/turf/simulated/floor/natural/jungle,/area/template_noop)
+"Xt" = (/turf/simulated/floor/natural/jungle/grasscorner1{dir = 8},/area/template_noop)
+"XH" = (/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+"XN" = (/turf/simulated/floor/natural/jungle/grasscorner1,/area/template_noop)
+"Ym" = (/obj/item/material/ashtray/bronze,/obj/structure/table/woodentable,/turf/simulated/floor/natural/jungle/grasscorner2{dir = 8},/area/template_noop)
+"YJ" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/vessel/flask/vacuumflask{pixel_y = 4},/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
+
+(1,1,1) = {"
+FcFcbUXHXHSLUaUabUyqFccRbU
+FcXNbUXHXHXHXHXHuOTMhmTXbU
+FckGoxobUaXHUaXHUavmyqcRbU
+SjkGUaXHXHzZXHobUafLBqFsbU
+FcIAxyUazeUaYJUaxyXHXHTMJF
+hmIAXHfLfLfLfLfLXHXHXHTMJF
+FcxHLnXHXHXHXHXHXHXHXHTMJF
+SxNtKWXHobXHobXHQRNhBNTMVy
+SxUlKsLnXHXHXHobfRYmBNTMJF
+FchmBwXtLnXHlPyJPYUMnRPYFc
+FcSoWgqzhRXHyYBwFcIfFcLOIf
+FicRWgQPIAXHyYWgDRcRSoDRcR
+"}

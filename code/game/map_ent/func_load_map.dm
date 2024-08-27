@@ -36,6 +36,7 @@
 	var/list/obj/machinery/atmospherics/atmos_machines = list()
 	var/list/obj/machinery/machines = list()
 	var/list/obj/structure/cable/cables = list()
+	var/list/obj/structure/ladder/ladders = list()
 
 	for(var/atom/A in atoms)
 		if(istype(A, /turf))
@@ -46,6 +47,14 @@
 			atmos_machines += A
 		if(istype(A, /obj/machinery))
 			machines += A
+		if(istype(A, /obj/structure/ladder) && !istype(A, /obj/structure/ladder/up))
+			ladders += A
+
+	for (var/i in ladders)
+		var/obj/structure/ladder/ladder = i
+		var/turf/down_turf = GetBelow(ladder)
+		if((!locate(/obj/structure/ladder/up) in down_turf.contents) && (!locate(/obj/structure/ladder/updown) in down_turf.contents) && down_turf != null)
+			new /obj/structure/ladder/up(down_turf)
 
 	SSatoms.InitializeAtoms(atoms)
 
