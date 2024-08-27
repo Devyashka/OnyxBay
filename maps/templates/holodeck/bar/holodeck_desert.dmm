@@ -6,8 +6,10 @@
 "h" = (/obj/structure/table/woodentable,/turf/simulated/floor/sand_floor,/area/template_noop)
 "i" = (/obj/structure/flora/tree/dead/deadtree_5,/turf/simulated/floor/natural/sand,/area/template_noop)
 "j" = (/obj/structure/bed/chair/beige{dir = 8},/turf/simulated/floor/natural/sand,/area/template_noop)
+"n" = (/obj/structure/table/woodentable,/obj/machinery/light{dir = 8; pixel_x = 27},/turf/simulated/floor/natural/sand,/area/template_noop)
 "o" = (/obj/structure/bed/chair/beige{dir = 4},/turf/simulated/floor/sand_floor,/area/template_noop)
 "p" = (/obj/structure/flora/tree/dead/deadtree_3,/turf/simulated/floor/natural/sand,/area/template_noop)
+"q" = (/obj/structure/table/woodentable,/obj/machinery/light{dir = 4; pixel_x = -27},/turf/simulated/floor/natural/sand,/area/template_noop)
 "s" = (/turf/simulated/floor/natural/sand,/area/template_noop)
 "v" = (/obj/item/clothing/glasses/sunglasses,/obj/item/device/synthesized_instrument/guitar,/obj/structure/table/woodentable,/turf/simulated/floor/natural/sand,/area/template_noop)
 "w" = (/obj/structure/flora/tree/dead/deadtree_1,/turf/simulated/floor/natural/sand,/area/template_noop)
@@ -29,7 +31,7 @@ ssessGOaesWae
 ssesMsssdsWBe
 sRfWashWaRWae
 ssaWWWWsaRsse
-sspahhaawssMR
+sspqhhanwssMR
 issRRRRRssssR
 ssWWsssMsWssR
 bhVsssssohVsR

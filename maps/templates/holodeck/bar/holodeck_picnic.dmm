@@ -14,6 +14,7 @@
 "vm" = (/obj/item/stool/bar,/turf/simulated/floor/natural/jungle/grasscorner2{dir = 4},/area/template_noop)
 "xy" = (/obj/structure/window_frame/glass,/turf/simulated/floor/natural/jungle,/area/template_noop)
 "xH" = (/obj/structure/flora/ausbushes/jungleflora/bushc,/turf/simulated/floor/natural/jungle/grasscorner1{dir = 8},/area/template_noop)
+"xZ" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/natural/jungle/dirt,/area/template_noop)
 "yq" = (/turf/simulated/floor/natural/jungle/grasscorner1{dir = 1},/area/template_noop)
 "yJ" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle/grassedge{dir = 1},/area/template_noop)
 "yY" = (/obj/structure/flora/junglevines/light,/turf/simulated/floor/natural/jungle/grassedge{dir = 8},/area/template_noop)
@@ -61,7 +62,7 @@ FcXNbUXHXHXHXHXHuOTMhmTXbU
 FckGoxobUaXHUaXHUavmyqcRbU
 SjkGUaXHXHzZXHobUafLBqFsbU
 FcIAxyUazeUaYJUaxyXHXHTMJF
-hmIAXHfLfLfLfLfLXHXHXHTMJF
+hmIAxZfLfLfLfLfLxZXHXHTMJF
 FcxHLnXHXHXHXHXHXHXHXHTMJF
 SxNtKWXHobXHobXHQRNhBNTMVy
 SxUlKsLnXHXHXHobfRYmBNTMJF

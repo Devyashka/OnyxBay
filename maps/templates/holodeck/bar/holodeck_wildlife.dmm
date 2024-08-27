@@ -1,5 +1,6 @@
 "a" = (/turf/simulated/floor/reinforced,/area/template_noop)
 "c" = (/turf/simulated/wall{holodeck_compatible = 1},/area/template_noop)
+"d" = (/obj/machinery/light/small/red{dir = 1},/turf/simulated/floor/reinforced,/area/template_noop)
 "r" = (/obj/structure/window_frame/grille,/turf/simulated/floor/reinforced,/area/template_noop)
 "u" = (/obj/structure/window_frame/grille,/turf/simulated/floor/tiled/dark/mono,/area/template_noop)
 "L" = (/obj/item/reagent_containers/food/grown/coffee,/obj/item/reagent_containers/food/grown/coffee,/turf/simulated/floor/reinforced,/area/template_noop)
@@ -11,7 +12,7 @@ aacaaaaaraaLc
 aauaaaaaraaac
 RauaaaaaraRac
 aarrrrrrraaar
-aaaaaaaaaaaar
+aaadaaadaaaar
 aaaaaaaaaaaar
 aaaaaRaaaRaar
 aRaaaaaaaaaar
